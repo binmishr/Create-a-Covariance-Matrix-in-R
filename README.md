@@ -26,3 +26,4 @@ Note:-
 Covariance can vary between -∞ and +∞
 Covariance is affected by the changes in scale.
 Covariance is zero indicates if one variable move and the other doesn’t.
+The Code to this repository is added on the .docx file.
